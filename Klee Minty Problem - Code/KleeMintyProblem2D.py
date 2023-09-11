@@ -37,7 +37,7 @@ def plot_klee_minty_problem(n):
     plt.show()
 
 if __name__ == "__main__":
-    n = 100  # You can change the value of n here
+    n = 3  # You can change the value of n here
     
     # Solve the problem
     result = solve_klee_minty_problem(n)
